@@ -1,0 +1,16 @@
+{
+  "name": "littcood-backend",
+  "version": "1.0.0",
+  "description": "The backend part of the mega project littcood",
+  "license": "ISC",
+  "author": "Abhishek Harsh",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
